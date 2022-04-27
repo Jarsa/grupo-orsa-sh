@@ -7,3 +7,8 @@
 	path = partner-contact
 	url = git@github.com:jarsa/partner-contact.git
 	branch = 15.0
+
+[submodule "social"]
+	path = social
+	url = git@github.com:jarsa/social.git
+	branch = 15.0
