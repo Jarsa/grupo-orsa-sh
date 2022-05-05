@@ -12,3 +12,8 @@
 	path = social
 	url = git@github.com:jarsa/social.git
 	branch = 15.0
+
+[submodule "transport-management-system"]
+	path = transport-management-system
+	url = git@github.com:jarsa/transport-management-system.git
+	branch = 15.0
